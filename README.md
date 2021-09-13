@@ -9,9 +9,9 @@ The Jumping-Man game
 
 Start the game: By pressing the ENTER key
 
-During the game the sticks go down and the man has to jump between the sticks and be careful to do not fall, The speed of dropping the sticks varies depending on the stage, A jump will occur by pressing the SPACE key, only when the man is on one of the sticks, moves to the sides using the arrows The game ends at the end of Phase 3
+During the game the sticks go down and the man has to jump between the sticks and be careful to do not fall, The speed of dropping the sticks varies depending on the stage, A jump will occur by pressing the SPACE key, only when the man is on one of the sticks. Move the man to the sides using the arrows. The game ends at the end of Phase 3.
 
-End of the game: When winning / failing or by pressing the ESC key By pressing ENTER you can start a new game after the end of the current game
+End of the game: When winning / failing or by pressing the ESC key. By pressing ENTER you can start a new game after the end of the current game.
 
 How to compile and run the code:
 
